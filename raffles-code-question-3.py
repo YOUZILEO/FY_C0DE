@@ -1,6 +1,6 @@
 import random
 
-l2=['hotel','maker','face','python','apple','meat','food','book',]
+l2=['hotel','maker','face','clock','apple','meat','food','book','blue','green','white','mouse','phone','motor','fish','sky']
 
 r1=random.randrange(0,len(l2))
 
